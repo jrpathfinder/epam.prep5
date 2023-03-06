@@ -1,0 +1,12 @@
+{
+  "currencies": [
+    {
+      "name": "USD",
+      "value": 100.01
+    },
+    {
+      "name": "RUB",
+      "value": 100.00
+    }
+  ]
+}
